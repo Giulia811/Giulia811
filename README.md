@@ -1,16 +1,21 @@
-## Hi there 👋
+# Oiii! Eu sou a Giulia! 👋
 
-<!--
-**Giulia811/Giulia811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre Mim
+Sou desenvolvedora de software e apaixonada por tecnologia! Adoro criar projetos que possam ajudar as pessoas e compartilhar meu conhecimento com a comunidade.
 
-Here are some ideas to get you started:
+### 🚀 Projetos Principais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Jogo Número Secreto**: Um jogo divertido onde você tenta adivinhar o número secreto.
+- **Portfólio**: Meu portfólio pessoal, onde mostro alguns dos meus trabalhos e habilidades.
+- **Encriptador**: Uma ferramenta para encriptar e desencriptar mensagens.
+- **Decodificador de Texto**: Um projeto para decodificar textos de forma simples e rápida.
+
+### 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens**: HTML, CSS, JavaScript, Java
+- **Ferramentas**: Git, GitHub
+
+### 🌟 Curiosidades
+
+- Adoro aprender coisas novas e estou sempre em busca de novos desafios.
+- Nas horas vagas, gosto de ler livros e assistir séries.
