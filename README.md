@@ -1,8 +1,5 @@
 # Oiii! Eu sou a Giulia! 👋
 
-### Sobre Mim
-Sou desenvolvedora de software e apaixonada por tecnologia! Adoro criar projetos que possam ajudar as pessoas e compartilhar meu conhecimento com a comunidade.
-
 ### 🚀 Projetos Principais
 
 - **Jogo Número Secreto**: Um jogo divertido onde você tenta adivinhar o número secreto.
