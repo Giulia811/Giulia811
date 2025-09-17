@@ -6,10 +6,10 @@
 - **Portfólio**: Meu portfólio pessoal, mostrando meus trabalhos e habilidades.
 - **Encriptador**: Uma ferramenta para encriptar e desencriptar mensagens.
 - **Decodificador de Texto**: Projeto para decodificar textos de forma simples e rápida.
-- 
+ 
 <div style="display: flex; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giulia811&theme=radical&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giulia811&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://https://vercel.com/giulia811s-projects/github-readme-stats/FTfW9KYniLfuBKWUucnKiKZKWkVM/api?username=Giulia811&theme=radical&show_icons=true" alt="GitHub Stats" />
+  <img src="https://https://vercel.com/giulia811s-projects/github-readme-stats/FTfW9KYniLfuBKWUucnKiKZKWkVM/api/top-langs/?username=Giulia811&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 
