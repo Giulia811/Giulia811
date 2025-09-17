@@ -7,6 +7,19 @@
 - **Encriptador**: Uma ferramenta para encriptar e desencriptar mensagens.
 - **Decodificador de Texto**: Projeto para decodificar textos de forma simples e rápida.
 
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+
+  <a href="https://github.com/Giulia811" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giulia811&theme=radical&show_icons=true" alt="Giulia811 GitHub Stats" />
+  </a>
+
+  <a href="https://github.com/Giulia811" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giulia811&show_icons=true&theme=radical&layout=compact" alt="Top Langs" />
+  </a>
+
+</div>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Giulia-C" height="40" width="60" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Giulia-C++" height="40" width="60" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
