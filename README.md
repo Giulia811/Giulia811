@@ -7,13 +7,8 @@
 - **Encriptador**: Uma ferramenta para encriptar e desencriptar mensagens.
 - **Decodificador de Texto**: Projeto para decodificar textos de forma simples e rápida.
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-
 [![Giu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giulia811&theme=radical)](https://github.com/Giulia811)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giulia811&show_icons=true&theme=radical)](https://github.com/Giulia811)
-
-
-</div>
 
 
 <div style="display: inline_block"><br>
