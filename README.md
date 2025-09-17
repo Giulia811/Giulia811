@@ -9,13 +9,9 @@
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
-  <a href="https://github.com/Giulia811" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giulia811&theme=radical&show_icons=true" alt="Giulia811 GitHub Stats" />
-  </a>
+[![Giu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giulia811&theme=radical)](https://github.com/Giulia811)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giulia811&show_icons=true&theme=radical)](https://github.com/Giulia811)
 
-  <a href="https://github.com/Giulia811" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giulia811&show_icons=true&theme=radical&layout=compact" alt="Top Langs" />
-  </a>
 
 </div>
 
