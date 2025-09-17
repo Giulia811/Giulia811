@@ -5,6 +5,7 @@
 - **Jogo Número Secreto**: Um jogo divertido onde você tenta adivinhar o número secreto.
 - **Portfólio**: Meu portfólio pessoal, mostrando meus trabalhos e habilidades.
 - **Encriptador**: Uma ferramenta para encriptar e desencriptar mensagens.
+- **Decodificador de Texto**: Projeto para decodificar textos de forma simples e rápida.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Giulia-C" height="40" width="60" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -23,8 +24,6 @@
   <a href="mailto:giulia.seuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giulia-seu-perfil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-- **Decodificador de Texto**: Projeto para decodificar textos de forma simples e rápida.
 
 ### 🛠️ Tecnologias e Ferramentas
 
